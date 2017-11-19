@@ -1,0 +1,18 @@
+## r(NET) Credits
+
+Forked from ZeroNet - https://github.com/HelloZeroNet/ZeroNet
+
+We removed TOR from the source code to replace it AnonyProx - 
+
+Added IPFS for serving static file P2P - https://github.com/praveen-manohar/ipghost
+
+TODO
+--------
+
+Forking Namecoin - https://github.com/namecoin/namecoin-core
+
+Adding Steem blockchain integration - https://github.com/Netherdrake/steem-python
+
+Implement Steemit upvoting and flagging system via Steem Connect v2.0 - https://github.com/steemit/
+
+
